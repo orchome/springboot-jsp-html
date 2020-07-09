@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Title</title>
+    <link rel="stylesheet" href="/css/global.css" />
 </head>
 <body>
 <img src="/img/orcHome.png"/>
